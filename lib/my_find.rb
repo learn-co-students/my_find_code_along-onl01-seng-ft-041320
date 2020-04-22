@@ -7,5 +7,5 @@ def my_find(collection)
   return collection [i]
   i = i + 1
 end
-
+i = i + 1
 end
